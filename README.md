@@ -8,7 +8,9 @@
 
 ## 📊 About Me
 
-I am a B.Tech Computer Science student specializing in **Artificial Intelligence & Machine Learning** at Galgotias University, graduating in June 2027. I am passionate about transitioning generative AI experience into scalable predictive models, actionable data visualizations, and resilient backends. 
+I am a B.Tech Computer Science student specializing in **Artificial Intelligence & Machine Learning** at Galgotias University, graduating in June 2027. I am passionate about transitioning generative AI experience into scalable predictive models, actionable data visualizations, and resilient backends.
+
+🚀 **Currently:** Pursuing the **AICTE – EduSkills Virtual Internship in Machine Learning & Data Science** (Oct 2026 – Dec 2026).
 
 - 🎓 **CGPA:** 8.03/10
 - 🌍 **Location:** Delhi / Greater Noida, India
@@ -28,18 +30,29 @@ I am a B.Tech Computer Science student specializing in **Artificial Intelligence
 ### AI, ML & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- **Specializations:** Machine Learning, Deep Learning, Generative AI Applications, Prompt Engineering.
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- **Specializations:** Machine Learning, Deep Learning, NLP (TF-IDF, Naive Bayes), Feature Engineering, Model Evaluation, Generative AI Applications, Prompt Engineering.
 
 ### Frameworks, Databases & Cloud
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-- **Architecture:** REST APIs, Microservices, Cloud Infrastructure.
+- **Architecture:** REST APIs, Flask Model Deployment, Microservices, Cloud Infrastructure.
 
 ---
 
 ## 💼 Experience
+
+### Machine Learning & Data Science Virtual Intern | AICTE – EduSkills
+**Oct 2026 – Dec 2026 (8 weeks, in progress)**
+- Following a structured 8-week program covering Python, NumPy, Pandas, Matplotlib/Seaborn, supervised and unsupervised learning, NLP, SQL integration, model deployment, and MLOps fundamentals.
+- Completing weekly assessments, project documentation, and a final assessment test.
+- Capstone: **Customer Sentiment Analysis**, combining text classification, SQL storage, a Flask API, and a Power BI dashboard.
 
 ### AI & ML Engineering Intern | Google for Developers / EduSkills
 **Jul 2025 – Sep 2025**
@@ -51,6 +64,21 @@ I am a B.Tech Computer Science student specializing in **Artificial Intelligence
 **Apr 2025 – Jun 2025**
 - Implemented mobile application features and integrated REST APIs to support core app functionality, following agile development practices.
 - Collaborated with program mentors through iterative review cycles, incorporating technical feedback across each development milestone.
+
+---
+
+## 📚 Currently Learning (AICTE – EduSkills ML & Data Science)
+
+| Week | Focus |
+|------|-------|
+| 1 | ML foundations, Python & NumPy for data science |
+| 2 | Data manipulation with Pandas, visualization with Matplotlib & Seaborn |
+| 3 | Supervised learning (linear/logistic regression) & feature engineering |
+| 4 | Model evaluation, cross-validation, K-Means clustering |
+| 5 | Text analytics & NLP: BoW, TF-IDF, Naive Bayes, spam/sentiment detection |
+| 6 | SQL integration with Python and Pandas-SQL workflows |
+| 7 | Model deployment (Flask), Power BI dashboards, ensemble methods, hyperparameter tuning |
+| 8 | ML pipelines, MLOps lifecycle & capstone project |
 
 ---
 
@@ -71,10 +99,15 @@ I am a B.Tech Computer Science student specializing in **Artificial Intelligence
 - Built a Convolutional Neural Network with 85% accuracy on the CIFAR-10 dataset.
 - Reduced training time by 25% through hyperparameter optimization.
 
+### 🔜 Customer Sentiment Analysis (Capstone, in progress)
+**Tech:** Python, Scikit-learn, NLP, SQL, Flask, Power BI
+- End-to-end pipeline: text classification, SQL storage, Flask API deployment, and Power BI dashboard reporting. *(Repository link coming soon.)*
+
 ---
 
 ## 🏆 Certifications & Achievements
 
+- **Internship:** AICTE – EduSkills Virtual Internship, Machine Learning & Data Science (Oct–Dec 2026; completion certificate pending).
 - **Certifications:** Software Testing - NPTEL (2026), Introduction to Data Science - Infosys Springboard, Deep Learning for Developers - Infosys Springboard.
 - **Milestones:** Google Arcade Facilitator 2025 (Achieved "Trooper" milestone).
 - **Learning:** Completed DevOps Learning Track (Gen AI Academy by Google Cloud).
